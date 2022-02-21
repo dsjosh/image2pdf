@@ -8,4 +8,4 @@ As a bonus, you will have all the files from all the iterations (sorted accordin
 
 The lower the filesize, the worse the quality gets.
 
-![Display Configuration](https://github.com/1800546/image2pdf/blob/main/screenshot.PNG)
+![Display Configuration](https://github.com/dsjosh/image2pdf/blob/main/screenshot.PNG)
